@@ -1,0 +1,3 @@
+([('excel_comparator',
+   '/Users/neolaff/Development/Apps/ExcelComparator/dist/excel_comparator',
+   'EXECUTABLE')],)
