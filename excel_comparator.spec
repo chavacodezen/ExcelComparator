@@ -35,11 +35,10 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['myicon.ico'],
 )
 app = BUNDLE(
     exe,
     name='excel_comparator.app',
-    icon='myicon.ico',
+    icon=None,
     bundle_identifier=None,
 )
